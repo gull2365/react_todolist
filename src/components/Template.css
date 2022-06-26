@@ -1,0 +1,16 @@
+.Template {
+    padding-top: 20px;
+    max-height: 100vh;
+}
+.title {
+    width: 100vw;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: solid #c3bdff;
+
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #8a80fc;
+}
